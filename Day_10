@@ -1,0 +1,32 @@
+#...Python Comments...
+
+# this is a simple comment
+print("Welcome to Tpoint Tech to learn Python")
+
+#...Inline Comments...
+
+print("Welcome to Tpoint Tech!") # this is an inline comment
+
+#...Multi-line Comments...
+
+# example of multiline comment  
+  
+# this is a  
+# multi-line comment  
+# added to the code  
+# by stacking multiple  
+# single line comments  
+  
+print("Welcome to Tpoint Tech!")
+
+#...Using Triple Quoted Strings...
+
+# example of multiline comment  
+  
+'''''This is a  
+multi-line comment  
+added to the code  
+using the triple  
+quoted string 
+'''    
+print("Welcome to Tpoint Tech!")  
