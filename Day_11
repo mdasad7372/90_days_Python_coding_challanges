@@ -1,0 +1,7 @@
+#...Python Variables...
+
+a = 17   
+name = "Daisy"    
+  
+print(a)  
+print(name)  
