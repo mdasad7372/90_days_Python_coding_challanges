@@ -1,0 +1,7 @@
+#...Dynamic Typing...
+
+var_one = 21    # integer  
+print(var_one)  
+  
+var_one = 'tpointtech'  # string  
+print(var_one) 
