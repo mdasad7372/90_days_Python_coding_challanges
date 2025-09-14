@@ -1,0 +1,8 @@
+#...Multiple Assignments...
+
+# assigning same value to multiple variables  
+var_1 = var_2 = var_3 = 182  
+  
+print("Variable 1:", var_1)  
+print("Variable 2:", var_2)  
+print("Variable 3:", var_3) 
