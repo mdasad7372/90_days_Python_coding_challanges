@@ -1,0 +1,7 @@
+#...Assigning Same Value to Multiple Variables...
+
+a = b = c = 100
+
+print("variable a:", a)
+print("variable b:", b)
+print("variable c:", c)
