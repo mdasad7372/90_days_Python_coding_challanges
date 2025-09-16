@@ -1,0 +1,11 @@
+#...Deleting a Variable...
+
+#initializing a variable
+var_x = 15
+
+print(var_x)
+
+# using the del keyword to delete the variable
+del var_x
+
+print(var_x)  # this line will raise Error as the variable we are trying to access is deleted
