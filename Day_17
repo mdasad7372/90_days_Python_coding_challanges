@@ -1,0 +1,7 @@
+#... Data Types...
+
+var_1 = 10  
+  
+# printing info  
+print(var_1)        # printing value of var_1  
+print(type(var_1))  # printing data type of var_1  
