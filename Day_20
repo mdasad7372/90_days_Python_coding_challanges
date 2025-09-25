@@ -1,0 +1,8 @@
+#...Lists (list)...
+
+# creating a list
+list_1 = [1, 0.5, 'hello', 1+5j, 1.7e2, -12, 'welcome'] # different types of elements
+
+# printing details
+print("Initialized List:", list_1) 
+print("Data Type:", type(list_1)) 
