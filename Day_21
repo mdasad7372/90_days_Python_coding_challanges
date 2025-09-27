@@ -1,0 +1,8 @@
+#...Tuples (tuple)...
+
+# creating a tuple  
+tuple_1 = (1, 0.5, 'hello', 1+5j, 1.7e2, -12, 'welcome') 
+  
+# printing details  
+print("Initialized tuple:", tuple_1) 
+print("Data Type:", type(tuple_1)) 
