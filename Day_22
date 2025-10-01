@@ -1,0 +1,12 @@
+#...String (str)...
+
+# initializing variables with some string
+str_1 = 'TpointTech'
+str_2 = 'I love learning Python from TpointTech'
+
+# printing details
+print("String 1 :", str_1) # printing string
+print("Data Type of String 1:", type(str_1)) # printing data type
+
+print("String 2 :", str_2) # printing string
+print("Data Type of String 2:", type(str_2)) # printing data type
